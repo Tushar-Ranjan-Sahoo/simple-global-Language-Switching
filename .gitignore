@@ -1,0 +1,44 @@
+# Compiled class files
+*.class
+target/
+build/
+out/
+bin/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+*.launch
+*.pydevproject
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# NetBeans
+nbproject/
+nbbuild/
+dist/
+nbdist/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
