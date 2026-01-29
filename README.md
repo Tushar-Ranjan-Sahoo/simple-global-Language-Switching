@@ -2,6 +2,11 @@
 
 A Spring MVC + AngularJS application with global language translation support. Features a language dropdown in the header that controls translations across all pages with minimal setup required.
 
+## 📖 Documentation
+
+- **[TRANSLATION_WORKFLOW.md](TRANSLATION_WORKFLOW.md)** - Complete explanation of how the translation system works
+- **[CODE_EXECUTION_FLOW.md](CODE_EXECUTION_FLOW.md)** - Step-by-step code execution flow with examples
+
 ## 🌟 Features
 
 - **Global Language Control**: Single dropdown in header controls all pages
